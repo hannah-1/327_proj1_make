@@ -1,8 +1,8 @@
 #include "myfunc.h"
 
-std::string myfunc()
+std::string func()
 {
 	//the function that returns a string
-	return "hello world";
+	return "hello";
 }
 
